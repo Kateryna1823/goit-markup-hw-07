@@ -3,7 +3,7 @@
   justify-content: space-between;
 }
 
-.virtues-item-icon {
+.virtues__icon {
   background-color: #f5f4fa;
   width: 270px;
   height: 120px;
@@ -13,19 +13,18 @@
   padding-left: 100px;
   margin-bottom: 30px;
 }
-.virtues-item {
+.virtues__item {
   width: 270px;
 }
-.virtues-caption {
+.virtues__caption {
   margin-bottom: 10px;
-
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.virtues-slogan {
+.virtues__slogan {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
